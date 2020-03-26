@@ -1,4 +1,4 @@
-# Operasi-Sederhana-Matriks
+# Operasi Sederhana Matriks
 Penjumlahan, pengurangan, perkalian
 
 Tugas Pengganti Pertemuan 4
